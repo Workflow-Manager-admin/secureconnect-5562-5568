@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/secureconnect-5562-5568/main_container_for_secureconnect"
+}
